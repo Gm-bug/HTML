@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>site</title>
+    <link rel="shotcut icon" href="toucan-nature-background.jpg" type="image/x-icon">
+</head>
+<body>
+    <h1>imagem abaixo</h1>
+    <P>abaixox vc ira ver uma imagem</P>
+    <img src="toucan-nature-background.jpg" alt="tucano" width="200px">
+
+    <p>use a imagem do tamanho carretooooo</p>
+    <p>podemos tambeem carregar imagem contanto que esteja na pasta raiz</p>
+    <img src="IMAGENS/closeup-shot-european-cat-with-camera-lens.jpg" alt="" width="350px">
+
+    <p>tambem podemos carregar imagens externas</p>
+    <img src="https://w7.pngwing.com/pngs/8/868/png-transparent-google-maps-hd-logo.png" alt="" width="500">
+    <h1>map mundi</h1>
+
+    <img src="IMAGENS/mapa mundi/topo da america.jpg.png" alt="" width="250">
+    <img src="IMAGENS/mapa mundi/sla.jpg.png" alt="" width="250">
+    <img src="IMAGENS/mapa mundi/russis.jpg.png" alt=""width="250">
+    <br>
+    <img src="IMAGENS/mapa mundi/EUA e mexico.jpg.png" alt="" width="250">
+    <img src="IMAGENS/mapa mundi/africa.jpg.png" alt="" width="250">
+    <img src="IMAGENS/mapa mundi/china.png" alt="" width="250">
+    <br>
+    <img src="IMAGENS/mapa mundi/america latina.jpg.png" alt="" width="250">
+    <img src="IMAGENS/mapa mundi/africa abai.png" alt="" width="250">
+    <img src="IMAGENS/mapa mundi/austrialia.png" alt="" width="250">
+
+</body>
+</html>
