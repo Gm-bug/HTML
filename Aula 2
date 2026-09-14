@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>listas</title>
+</head>
+<body style="background-color: #D3D3D3; color: #008000;">
+     <h1>listasa html</h1>
+     <p>listas são usadas para agrupamentos</p>
+     <p>no html, exitem 3 tipos de listas<br>
+        order list;<br>
+        unodered list<br>
+        description list<br>
+     </p>
+     <h2>lista ordenadas</h2>
+     <p>usadao para definir uma ordem especificas, como o alfabeto</p>
+     <h3>exemplo</h3>
+     <ol><li>1</li><li>2</li><li>3</li></ol>
+     <h3>cidades</h3>
+     
+     <h3>comecar do 50</h3>
+     <p>e se quisermos comecar do 50<br>atriubtos</p>
+     <ol start="50" reversed>
+        <li>Sp</li><li>rj</li><li>mg</li>
+     </ol>
+     <ol type="A">
+        <li>Sp</li><li>rj</li><li>mg</li>
+     </ol>
+     <h2>lista não ordenadas</h2>
+     <p>nao precisam de uma ordem sequencial</p>
+     <ul>
+        <li>Sp</li><li>rj</li><li>mg</li>
+     </ul>
+     <p>laterar o tipo da lista</p>
+     <ul type ="square">
+        <li>cafe</li><li>cha</li><li>leite</li></ul>
+    <p>altera o tipo para disco</p>
+    <ul type="cicle">
+        <li>cafe</li><li>cha</li><li>leite</li>
+    </ul>
+    <ol>><li style="color: blueviolet;">São paulo
+        <ol><li>sp</li><li>campinas</li></ol>
+     </li>
+     <li>rio de janeiro<ol>
+        <li>rj</li><li>morro</li></ol>
+     </li>
+     <li>minas gerais <ol><li>bh</li><li>pao de quejo</li>
+      </ol></li>
+    </ul>
+
+    <h2> meus jogos</h2>
+    <ol><li   type="square". style="color: blueviolet;">nitendo</li>
+        <ol><li style="color: blue;">pokemon</li>
+            <ol>
+                <li>esmelrald</li>
+                <li>diamond</li>
+            </ol>
+        </ol>
+        <ol><li style="color: aqua;">mario</li>
+            <ol>
+                <li>mario word</li>
+                <li>mario cart</li>
+            </ol>
+        </ol>
+    </ol>
+    <h2>lista de definicao</h2>
+    <p>dicionario</p>
+    <dl>
+     <dt>html</dt>
+     <dd>ultilizado para marcacao do site </dd>
+     <dt>css</dt>
+     <dd>para deixar bonito</dd>
+     <dt>javascript</dt>
+     <dd>back-end</dd>
+    </dl>
+</body>
+</html>
